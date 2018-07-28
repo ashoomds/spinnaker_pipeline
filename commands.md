@@ -18,3 +18,5 @@ git status
 
 
 Docker build started . 
+
+Install minikube from the link ==> https://github.com/kubernetes/minikube/releases
